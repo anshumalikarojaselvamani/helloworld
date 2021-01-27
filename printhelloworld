@@ -1,0 +1,3 @@
+#Displaying Hello world
+#print is a defined default function
+print("Hello World!")
